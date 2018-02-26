@@ -1,0 +1,10 @@
+# I/O for tagger.pl & scorer.pl, Curt Donelson, CMSC 416 Spring 2017
+
+# tagger.pl
+Input:  perl tagger.pl pos-train.txt pos-test.txt pos-test-with-tags.txt
+Output: ** See attached screenshot "test-with-tags.jpeg"
+
+
+# scorer.pl
+Input: perl scorer.pl pos-test-with tags.txt pos-test-key.txt
+Output: ** See attached screenshot "confusion matrix.jpeg"

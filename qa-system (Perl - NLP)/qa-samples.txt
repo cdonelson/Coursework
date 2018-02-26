@@ -1,0 +1,83 @@
+Who questions:
+1.  	Question: Who is Batman?
+Correct Answer: Batman is a fictional superhero appearing in American comic books published by DC Comics.
+My System Answer: Batman is a fictional superhero appearing in American comic books publishedby DC Comics.
+
+2.  	Question: Who were Led Zeppelin?
+Correct Answer: Led Zeppelin were an English rock band formed in London in 1968. 
+My System Answer: Led Zeppelin were an English rock band formed in London in 1968.
+
+3.	Question: Who is Cher?
+Correct Answer: Cher is an American singer and actress.
+My System Answer: Cher is an American singer and actress.
+
+4.	Question: Who was Gandhi?
+Correct Answer: Mohandas Karamchand Gandhi was the leader of the Indian independence movement in British-ruled India.
+My System Answer: Gandhi was too accommodating.   (?!?!?)
+
+5.	Question: Who was Clara Barton?
+Correct Answer: Clarissa "Clara" Harlowe Barton was a pioneering nurse who founded the American Red Cross.
+My System Answer: Sorry, but I could not find an answer to your question.  Please try again.
+
+What questions:
+6.	Question: What is a submarine?
+Correct Answer: A submarine (or simply sub) is a watercraft capable of independent operation underwater.
+My System Answer: A submarine is a watercraft capable on indpendent operation underwater.  It differs from a submersible, which has more limited underwater
+
+7.	Question: What is Mount Everest?
+Correct Answer: Mount Everest, also known in Nepal as Sagarm?th? and in China as Chomolungma, is Earth's highest mountain.
+My System Answer: Sorry, but I could not find an answer to your question.  Please try again.
+
+8.	Question: What is the Sun?
+Correct Answer:The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process.
+My System Answer: The sun is a nearly perfect sphere of hot plasma,
+
+9.	Question: What is a monopoly?
+Correct Answer: A monopoly exists when a specific person or enterprise is the only supplier of a particular commodity (this contrasts with a monopsony which relates to a single entity's control of a market to purchase a good or service, and with oligopoly which consists of a few sellers dominating a market)
+My System Answer: A monopoly is only one buyer of a product or service; a monopoly may also have monopsony control of a sector
+
+10.	Question: What is Jurassic Park?
+Correct Answer: Jurassic Park is an American media franchise centering on a disastrous attempt to create a theme park of cloned dinosaurs.
+My System Answer: Jurassic Park is an American media franchise centering on a disastrous attemptto create a theme park of cloned dinosaurs. It began in 1990 when Universal.
+
+Where questions:
+11.	Question: Where is the Grand Canyon?
+Correct Answer: Grand Canyon is located in Arizona, U.S.
+My System Answer: Grand Canyon is located in Arizona, U.S. |age=56 million years |photo=Grand canyon.
+
+12.	Question: Where is the Taj Mahal?
+Correct Answer: Taj Mahal is located in Agra, Uttar Pradesh, India.
+My System Answer: Taj Mahal is located in Agra, Uttar Pradesh, India.
+
+13.	Question: Where is Wrigley Field?
+Correct Answer: Wrigley Field is located in 1060 West Addison Street.
+My System Answer: Wrigley Field is located in 1060 West Addison Street.
+
+14.	Question: Where is Chicago?
+Correct Answer: Chicago is located in the United States.
+My System Answer: Chicago is the third-most populous city in the
+
+15.	Question: Where is Lincoln Park Zoo?
+Correct Answer: Lincoln Park Zoo is located in 2204 N. Cannon Dr, Chicago, Illinois, United States.
+My System Answer: Lincoln Park Zoo is located in 2204 N.
+
+When questions:
+16.	Question: When is St Patrick's Day?
+Correct Answer: 17 March.
+My System Answer: St Patrick's Day occurs on 17.
+
+17.	Question: When was the Battle of the Alamo?
+Correct Answer: February 23 - March 6, 1836
+My System Answer: Battle of Alamo occurs on February 23.
+
+18.	Question: When is Kwanzaa?
+Correct Answer: December 26 to January 1
+My System Answer: Kwanzaa occurs on December 26 to January 1|celebrations = UnityCreativityFaithGiving gifts | type.
+
+19.	Question: When was the JFK Assassination?
+Correct Answer: November 22, 1963.
+My System Answer: JFK Assassination occurs on |time=12:30 p.m. |timezone=.
+
+20.	Question: When is the Fourth of July?  (Sorry, I needed a gimme)
+Correct Answer: July 4.
+My System Answer: Fourth of July occurs on July 4.
